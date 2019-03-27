@@ -1,2 +1,2 @@
-# fuel-bubble
-The Tiny Module to create a Fuel/ Volume Bubble in Angular 2+ versions
+# bubble chart
+The Bubble chart Module to create a Fuel/ Volume type indications in Angular 2+ versions
