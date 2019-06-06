@@ -7,7 +7,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 This project contain volume guage use to reperesent the dynamic change in the volume percentage of a fule tank or similar kind of usage.
 
 #Screenshot
-![](src/app/images/Bubblechart.JPG)
+![](src/images/Bubblechart.JPG)
 
 ## Further help
 
